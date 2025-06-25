@@ -634,6 +634,89 @@ main hr {
   background-image: none;
 }
 
+/* Background Images for Next.js Project Items */
+#weather-widget-app {
+  background-image: url('weather.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#weather-widget-app:hover {
+  background-image: none;
+}
+
+#countdown-timer {
+  background-image: url('count.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#countdown-timer:hover {
+  background-image: none;
+}
+
+#birthday-wish-app {
+  background-image: url('bdy.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#birthday-wish-app:hover {
+  background-image: none;
+}
+
+#my-blog {
+  background-image: url('blog.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#my-blog:hover {
+  background-image: none;
+}
+
+#shareable-resume-builder {
+  background-image: url('dp4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#shareable-resume-builder:hover {
+  background-image: none;
+}
+
+#online-quran-teaching {
+  background-image: url('quran.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#online-quran-teaching:hover {
+  background-image: none;
+}
+
+#ecommerce-website {
+  background-image: url('ecom.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #f5f5f5;
+}
+#ecommerce-website:hover {
+  background-image: none;
+  background-color: transparent;
+}
+
+#restaurant-website {
+  background-image: url('rest.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#restaurant-website:hover {
+  background-image: none;
+}
+
 /* Contact Section */
 .contact {
   display: grid;
